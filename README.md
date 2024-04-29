@@ -1,4 +1,213 @@
 # chatgpt-prompts
+
+# Ask Right Questions Prompts:
+
+- As a content creator, how do I effectively measure the impact and reach of my social media campaigns across multiple platforms?
+- As a brand manager, what strategies can I employ to encourage user-generated content and increase customer engagement on social media?
+- As a social media strategist, how can I leverage influencers to amplify the reach and visibility of my brand on Instagram?
+- As a community manager, how do I foster a positive and inclusive online community while moderating user-generated content on Facebook?
+- As a digital marketer, what are some effective ways to utilize storytelling techniques to connect with and captivate my audience on YouTube?
+- As a social media advertiser, how can I optimize ad targeting to reach the right audience and maximize conversions on platforms like LinkedIn?
+- As a social media manager, what are some creative and engaging ways to leverage user-generated content in order to build brand authenticity on TikTok?
+- As an e-commerce business owner, what strategies can I implement to increase customer retention and repeat purchases through social media channels?
+- As a brand representative, how do I handle a social media crisis effectively and maintain a positive brand image amidst negative publicity?
+- As a social media analyst, what key performance indicators (KPIs) should I focus on to assess the success and ROI of my social media marketing efforts?
+- As a social media manager, how can I leverage data analytics to gain insights into my audience's preferences and behaviors, and tailor my content strategy accordingly?
+- As a brand ambassador, what strategies can I employ to effectively build and maintain a strong online brand presence on platforms like Instagram?
+- As a content marketer, how can I create engaging and shareable content that stands out in a crowded social media landscape?
+- As a social media strategist, how can I leverage user feedback and sentiment analysis to optimize my brand's reputation and customer satisfaction on platforms like Twitter?
+- As a social media advertiser, what targeting options and ad formats should I consider to maximize the ROI of my ad campaigns on platforms like Facebook?
+- As a social media influencer, how can I maintain authenticity and credibility while collaborating with brands and promoting sponsored content?
+- As a social media manager, what strategies can I employ to effectively manage and engage with an online community on platforms like Reddit?
+- As a brand marketer, how can I harness the power of visual storytelling to create compelling social media content on platforms like Pinterest?
+- As a social media strategist, what steps can I take to stay updated with the latest trends and algorithm changes on platforms like Instagram to ensure maximum visibility and reach?
+- As a digital marketer, how can I integrate social media campaigns with other marketing channels to create a cohesive and impactful brand presence across multiple touchpoints?
+
+
+# Right Giveaways Prompts:
+
+- What strategies can I employ to determine the goals and objectives of my Facebook giveaway in relation to lead generation for my ecommerce business?
+- How can I identify and define my target audience for the Facebook giveaway to ensure I attract leads that align with my ecommerce business's offerings?
+- What types of prizes or incentives can I offer in the Facebook giveaway that would resonate with my target audience and encourage them to participate and provide their contact information?
+- How can I create an enticing and visually appealing Facebook post or ad to promote the giveaway and capture the attention of potential leads?
+- What steps can I take to effectively communicate the rules, entry requirements, and eligibility criteria for the Facebook giveaway to ensure a smooth and compliant process?
+- How can I leverage Facebook's targeting capabilities to reach a wider audience that matches the demographics and interests of my ideal leads?
+- What strategies can I employ to encourage participants in the Facebook giveaway to share the contest with their friends and networks, thereby amplifying its reach and generating more leads?
+- What methods or tools can I use to collect and store the lead information gathered from the Facebook giveaway in a secure and organized manner?
+- How can I follow up with the leads generated through the Facebook giveaway to nurture the relationship, provide relevant information, and potentially convert them into customers?
+- What metrics and key performance indicators (KPIs) should I track to measure the success of the Facebook giveaway in terms of lead generation for my ecommerce business?
+- What steps can I take to integrate the Facebook giveaway with my existing lead generation and customer relationship management (CRM) systems for seamless data flow and follow-up?
+- How can I leverage Facebook's ad targeting options to retarget participants of the giveaway who didn't convert into leads initially and encourage them to take further action?
+- What strategies can I employ to create a sense of urgency and drive immediate action among participants of the Facebook giveaway to increase lead generation?
+- How can I use Facebook Live or video content to engage participants, announce winners, and create a buzz around the giveaway, thus increasing lead generation opportunities?
+- What steps can I take to ensure compliance with Facebook's promotion guidelines and policies while running the giveaway to avoid any potential issues or penalties?
+- How can I leverage user-generated content from the Facebook giveaway, such as testimonials or reviews, to further enhance lead generation and build social proof for my ecommerce business?
+- What strategies can I employ to personalize the lead generation experience within the Facebook giveaway, such as by offering exclusive discounts or tailored recommendations based on user preferences?
+- How can I optimize the landing page or website where participants are directed after entering the Facebook giveaway to maximize lead conversion opportunities?
+- What methods or incentives can I use to encourage participants of the Facebook giveaway to opt into my email list or subscribe to my newsletter for future lead nurturing?
+- What steps can I take to analyze and learn from the data collected during the Facebook giveaway to continuously improve future lead generation efforts for my ecommerce business?
+
+
+# Create Best Emails Prompts:
+
+- What are some effective strategies for crafting compelling subject lines that grab the attention of email recipients and increase open rates?
+- How can I personalize email content to resonate with individual recipients and create a sense of connection and relevance?
+- What elements should I consider when designing visually appealing and mobile-responsive email templates that enhance readability and engagement?
+- What tactics can I employ to segment my email list based on demographics, purchase history, or engagement levels to target specific groups with tailored messaging?
+- How can I leverage automation and email workflows to nurture leads, onboard new customers, and maintain ongoing communication with my subscriber base?
+- What strategies can I employ to optimize the call-to-action (CTA) buttons within my emails and increase click-through rates?
+- How can I use data and analytics to measure the effectiveness of my email marketing campaigns, such as open rates, click-through rates, and conversion rates?
+- What are some best practices for conducting A/B testing within email marketing to optimize campaign performance and drive better results?
+- How can I leverage personalization tokens within my emails to dynamically insert recipient-specific information and create a more personalized experience?
+- What strategies can I employ to optimize email deliverability and minimize the chances of emails ending up in spam folders?
+- How can I use email marketing to re-engage inactive subscribers and encourage them to interact with my brand again?
+- What tactics can I utilize to effectively upsell or cross-sell products or services through email marketing campaigns?
+- How can I leverage behavioral triggers and user actions to send targeted and timely emails, such as abandoned cart reminders or product recommendations?
+- What strategies can I employ to create engaging and valuable content within my emails, such as educational resources, exclusive offers, or customer success stories?
+- How can I integrate social media elements into my email marketing campaigns to encourage social sharing and expand the reach of my messages?
+- What tactics can I use to grow my email subscriber list organically, such as through lead magnets, content upgrades, or referral programs?
+- How can I ensure compliance with email marketing regulations and laws, such as GDPR or CAN-SPAM, while building and maintaining my subscriber base?
+- What are some effective ways to personalize and optimize transactional emails, such as order confirmations or shipping notifications, to enhance the customer experience?
+- How can I leverage customer segmentation and purchase data to create targeted email campaigns that drive customer loyalty and repeat purchases?
+- What strategies can I employ to continuously optimize and improve my email marketing efforts based on data-driven insights and customer feedback?
+
+
+# Better Google Analytics Reports:
+
+- What are some key performance indicators (KPIs) that I should include in my Google Analytics report to measure website traffic and user engagement?
+- How can I leverage custom dimensions and metrics in Google Analytics to track and analyze specific user behaviors or campaign performance?
+- What are some effective ways to segment data in Google Analytics to gain insights into different user groups and their interactions with my website?
+- How can I create a dashboard in Google Analytics that provides an overview of important metrics and trends, allowing for easy monitoring and analysis?
+- What strategies can I employ to set up goals and conversions in Google Analytics, and how can I track their performance and effectiveness?
+- How can I use Google Analytics to analyze the customer journey and identify potential areas for improvement in the conversion funnel?
+- What are some advanced features of Google Analytics, such as cohort analysis or multi-channel funnels, that can provide deeper insights into user behavior and campaign effectiveness?
+- How can I integrate Google Analytics with other tools or platforms, such as Google Ads or CRM systems, to gain a holistic view of marketing performance?
+- What are some best practices for creating and scheduling automated reports in Google Analytics to regularly monitor and share data with stakeholders?
+- How can I leverage Google Analytics to perform A/B testing and analyze the impact of website changes or marketing campaigns on user behavior and conversion rates?
+
+# Ask ChatGPT To Create Reports For You:
+
+- Using the available data, can you generate a reporting table that displays the total website traffic by source for the past month?
+- Could you create a reporting table that showcases the conversion rates for different marketing channels over the last quarter?
+- Please generate a reporting table that presents the average time spent on page for each landing page on our website.
+- Can you build a reporting table that compares the click-through rates of different email campaigns for the past year?
+- Using the data from our CRM system, could you create a reporting table that shows the customer churn rate by product category?
+- Please generate a reporting table that displays the revenue generated by each product in our inventory for the current fiscal year.
+- Can you build a reporting table that presents the number of social media followers for our brand across different platforms on a monthly basis?
+- Using the available data, could you create a reporting table that showcases the customer satisfaction ratings for each product in our lineup?
+- Please generate a reporting table that displays the return on investment (ROI) for different advertising campaigns over the last six months.
+- Can you build a reporting table that presents the website bounce rates for various landing pages during a specific time period?
+- Using the data from our e-commerce platform, could you create a reporting table that shows the average order value by customer segment?
+- Please generate a reporting table that displays the top-performing blog posts based on the number of page views and engagement metrics.
+- Can you build a reporting table that presents the conversion rates for different age groups segmented by gender?
+- Using the available data, could you create a reporting table that showcases the customer acquisition cost for different marketing campaigns?
+- Please generate a reporting table that displays the keyword rankings and organic search traffic for our website's landing pages.
+- Can you build a reporting table that presents the average session duration for different traffic sources during the last month?
+- Using the data from our sales platform, could you create a reporting table that shows the sales revenue by region for the previous quarter?
+- Please generate a reporting table that displays the email open rates and click-through rates segmented by customer segments.
+- Can you build a reporting table that presents the customer lifetime value (CLV) for different customer cohorts based on their acquisition date?
+- Using the available data, could you create a reporting table that showcases the website conversion rates for different device categories?
+
+
+
+# Best Marketing Prompts to Create: 
+
+- MakingChatGPT WritelikeYourself.
+- ConvertCompanyAssetsintoRedistributedContentPlan.
+- ConnectChatGPT withSlack,createuniqueclientdataprofiles.
+- Youarenow apitchdeck master, let'screateakillerpres.
+- UsingtheTop100captionsfrom Mr.BeastandAlexHormozi.
+- Alwayshavetoaddinsomegarbagesocopycatscopylol.
+- InstantCaptionRegenerator (LinkedIn,Twitter, Etsy).
+- A-ZYoutubeContentGenerator.
+
+
+# WRITING STYLES: 
+
+- "Write in X style"
+- Native
+- Informal/Formal
+- Persuasive
+- Descriptive
+- Humorous
+- Narrative
+- Inspirational
+- Confrontational
+
+# ROLEPLAYING:
+
+- Act like Alex Hormozi.
+- Act like a Human.
+- Act like an SEO Specialist.
+- Act like Bill Gates.
+- Act like a Prompt Engineer.
+- Act like a Movie Director.
+- Act like a Pro Copywriter.
+- Act like a Famous Historian.
+- Act like a College Professor.
+- Act like Tupac Shakur.
+- Act like Martin Scorsese.
+- Act like a LinkedIn Expert.
+- Act like a Book Character.
+
+# Prompts for LinkedIn Use:
+
+- LinkedIn Post Formatter.
+- About Us Templatizer.
+- Viral Post Templatizer.
+- Write Like Me (Easy).
+- Find Me Top Creators.
+- Write Like Me (HARD).
+- ICP Profile Finder.
+- Personalized Comments.
+- Personalized Outreach.
+- Humanity x ChatGPT.
+- Resume Writer.
+- Job Description Specialist.
+- Value Ladder Maker.
+- Conent Calendar Creation.
+- Conent Matrix.
+- Solopreneur Consultant.
+- Areas of Opportunity.
+- Collaboration Exp.
+
+# JAILBREAK: 
+- AIM Machiavelli Prompt.
+- EVIL Chad 2.1 Prompt.
+- DAN ChatGPT Prompt.
+- The S.T.A.N. Prompt.
+- Alphabreak.
+- DAN 9.0 ChatGPT Prompt.
+- DEV Mode ChatGPT Prom.
+- Maximum chatGPT.
+- The Dude Prompt.
+
+# LEARNINGSKILLS:
+
+- "You are now a X"
+- Summarize X.
+- Like a 5th grader.
+- Plagiarism Checker.
+- X Teacher.
+- Writing Tutor.
+- Career Counsellor.
+- Translator.
+- Travel Guide.
+- Personal Trainer.
+- Financial Assistant.
+
+# MakeChatGPT WriteLikeYou:
+
+- Act as a Tone Analyzer. Analyze The writing style and tone of [extract].Create a description of the style and tone,so we can recreate more text in that style.Don't take any contextor information from the"extract" below.The extract shared in this prompt is ONLY for tone analysis purposes. 
+
+**Example:** The author's writing style in this text is concise, informative and uses a journalistic tone.They maintain smooth flow throughout the text. They Use Precise And Clear language. 
+
+**Format:** Bullet pointed list 
+Extract = [Insert Here] 
+Using the analyzed tone, rewrite[text]. 
+Text = [Insert Here] 
+
+
 # Sample Prompts:
 
 - Tell me about your day.
@@ -230,213 +439,6 @@
 4. As the Instagram account manager for a food and beverage brand, analyze Instagram's audience insights to identify the prime times for posting content that generates maximum engagement. Consider the habits and preferences of food enthusiasts, such as popular mealtimes and food-related events. Moreover, recommend an optimal posting frequency per week that keeps your followers engaged without bombarding their feeds.
 5. You manage the Instagram account for a lifestyle blog. Conduct an analysis of Instagram's engagement data to determine the most favorable posting times for your target audience. Consider lifestyle patterns and when users are most likely to engage with lifestyle content. Additionally, suggest an ideal posting frequency per week that ensures a consistent flow of captivating content while avoiding overwhelming your followers.
 
-
-# Ask Right Questions Prompts:
-
-- As a content creator, how do I effectively measure the impact and reach of my social media campaigns across multiple platforms?
-- As a brand manager, what strategies can I employ to encourage user-generated content and increase customer engagement on social media?
-- As a social media strategist, how can I leverage influencers to amplify the reach and visibility of my brand on Instagram?
-- As a community manager, how do I foster a positive and inclusive online community while moderating user-generated content on Facebook?
-- As a digital marketer, what are some effective ways to utilize storytelling techniques to connect with and captivate my audience on YouTube?
-- As a social media advertiser, how can I optimize ad targeting to reach the right audience and maximize conversions on platforms like LinkedIn?
-- As a social media manager, what are some creative and engaging ways to leverage user-generated content in order to build brand authenticity on TikTok?
-- As an e-commerce business owner, what strategies can I implement to increase customer retention and repeat purchases through social media channels?
-- As a brand representative, how do I handle a social media crisis effectively and maintain a positive brand image amidst negative publicity?
-- As a social media analyst, what key performance indicators (KPIs) should I focus on to assess the success and ROI of my social media marketing efforts?
-- As a social media manager, how can I leverage data analytics to gain insights into my audience's preferences and behaviors, and tailor my content strategy accordingly?
-- As a brand ambassador, what strategies can I employ to effectively build and maintain a strong online brand presence on platforms like Instagram?
-- As a content marketer, how can I create engaging and shareable content that stands out in a crowded social media landscape?
-- As a social media strategist, how can I leverage user feedback and sentiment analysis to optimize my brand's reputation and customer satisfaction on platforms like Twitter?
-- As a social media advertiser, what targeting options and ad formats should I consider to maximize the ROI of my ad campaigns on platforms like Facebook?
-- As a social media influencer, how can I maintain authenticity and credibility while collaborating with brands and promoting sponsored content?
-- As a social media manager, what strategies can I employ to effectively manage and engage with an online community on platforms like Reddit?
-- As a brand marketer, how can I harness the power of visual storytelling to create compelling social media content on platforms like Pinterest?
-- As a social media strategist, what steps can I take to stay updated with the latest trends and algorithm changes on platforms like Instagram to ensure maximum visibility and reach?
-- As a digital marketer, how can I integrate social media campaigns with other marketing channels to create a cohesive and impactful brand presence across multiple touchpoints?
-
-
-# Right Giveaways Prompts:
-
-- What strategies can I employ to determine the goals and objectives of my Facebook giveaway in relation to lead generation for my ecommerce business?
-- How can I identify and define my target audience for the Facebook giveaway to ensure I attract leads that align with my ecommerce business's offerings?
-- What types of prizes or incentives can I offer in the Facebook giveaway that would resonate with my target audience and encourage them to participate and provide their contact information?
-- How can I create an enticing and visually appealing Facebook post or ad to promote the giveaway and capture the attention of potential leads?
-- What steps can I take to effectively communicate the rules, entry requirements, and eligibility criteria for the Facebook giveaway to ensure a smooth and compliant process?
-- How can I leverage Facebook's targeting capabilities to reach a wider audience that matches the demographics and interests of my ideal leads?
-- What strategies can I employ to encourage participants in the Facebook giveaway to share the contest with their friends and networks, thereby amplifying its reach and generating more leads?
-- What methods or tools can I use to collect and store the lead information gathered from the Facebook giveaway in a secure and organized manner?
-- How can I follow up with the leads generated through the Facebook giveaway to nurture the relationship, provide relevant information, and potentially convert them into customers?
-- What metrics and key performance indicators (KPIs) should I track to measure the success of the Facebook giveaway in terms of lead generation for my ecommerce business?
-- What steps can I take to integrate the Facebook giveaway with my existing lead generation and customer relationship management (CRM) systems for seamless data flow and follow-up?
-- How can I leverage Facebook's ad targeting options to retarget participants of the giveaway who didn't convert into leads initially and encourage them to take further action?
-- What strategies can I employ to create a sense of urgency and drive immediate action among participants of the Facebook giveaway to increase lead generation?
-- How can I use Facebook Live or video content to engage participants, announce winners, and create a buzz around the giveaway, thus increasing lead generation opportunities?
-- What steps can I take to ensure compliance with Facebook's promotion guidelines and policies while running the giveaway to avoid any potential issues or penalties?
-- How can I leverage user-generated content from the Facebook giveaway, such as testimonials or reviews, to further enhance lead generation and build social proof for my ecommerce business?
-- What strategies can I employ to personalize the lead generation experience within the Facebook giveaway, such as by offering exclusive discounts or tailored recommendations based on user preferences?
-- How can I optimize the landing page or website where participants are directed after entering the Facebook giveaway to maximize lead conversion opportunities?
-- What methods or incentives can I use to encourage participants of the Facebook giveaway to opt into my email list or subscribe to my newsletter for future lead nurturing?
-- What steps can I take to analyze and learn from the data collected during the Facebook giveaway to continuously improve future lead generation efforts for my ecommerce business?
-
-
-# Create Best Emails Prompts:
-
-- What are some effective strategies for crafting compelling subject lines that grab the attention of email recipients and increase open rates?
-- How can I personalize email content to resonate with individual recipients and create a sense of connection and relevance?
-- What elements should I consider when designing visually appealing and mobile-responsive email templates that enhance readability and engagement?
-- What tactics can I employ to segment my email list based on demographics, purchase history, or engagement levels to target specific groups with tailored messaging?
-- How can I leverage automation and email workflows to nurture leads, onboard new customers, and maintain ongoing communication with my subscriber base?
-- What strategies can I employ to optimize the call-to-action (CTA) buttons within my emails and increase click-through rates?
-- How can I use data and analytics to measure the effectiveness of my email marketing campaigns, such as open rates, click-through rates, and conversion rates?
-- What are some best practices for conducting A/B testing within email marketing to optimize campaign performance and drive better results?
-- How can I leverage personalization tokens within my emails to dynamically insert recipient-specific information and create a more personalized experience?
-- What strategies can I employ to optimize email deliverability and minimize the chances of emails ending up in spam folders?
-- How can I use email marketing to re-engage inactive subscribers and encourage them to interact with my brand again?
-- What tactics can I utilize to effectively upsell or cross-sell products or services through email marketing campaigns?
-- How can I leverage behavioral triggers and user actions to send targeted and timely emails, such as abandoned cart reminders or product recommendations?
-- What strategies can I employ to create engaging and valuable content within my emails, such as educational resources, exclusive offers, or customer success stories?
-- How can I integrate social media elements into my email marketing campaigns to encourage social sharing and expand the reach of my messages?
-- What tactics can I use to grow my email subscriber list organically, such as through lead magnets, content upgrades, or referral programs?
-- How can I ensure compliance with email marketing regulations and laws, such as GDPR or CAN-SPAM, while building and maintaining my subscriber base?
-- What are some effective ways to personalize and optimize transactional emails, such as order confirmations or shipping notifications, to enhance the customer experience?
-- How can I leverage customer segmentation and purchase data to create targeted email campaigns that drive customer loyalty and repeat purchases?
-- What strategies can I employ to continuously optimize and improve my email marketing efforts based on data-driven insights and customer feedback?
-
-
-# Better Google Analytics Reports:
-
-- What are some key performance indicators (KPIs) that I should include in my Google Analytics report to measure website traffic and user engagement?
-- How can I leverage custom dimensions and metrics in Google Analytics to track and analyze specific user behaviors or campaign performance?
-- What are some effective ways to segment data in Google Analytics to gain insights into different user groups and their interactions with my website?
-- How can I create a dashboard in Google Analytics that provides an overview of important metrics and trends, allowing for easy monitoring and analysis?
-- What strategies can I employ to set up goals and conversions in Google Analytics, and how can I track their performance and effectiveness?
-- How can I use Google Analytics to analyze the customer journey and identify potential areas for improvement in the conversion funnel?
-- What are some advanced features of Google Analytics, such as cohort analysis or multi-channel funnels, that can provide deeper insights into user behavior and campaign effectiveness?
-- How can I integrate Google Analytics with other tools or platforms, such as Google Ads or CRM systems, to gain a holistic view of marketing performance?
-- What are some best practices for creating and scheduling automated reports in Google Analytics to regularly monitor and share data with stakeholders?
-- How can I leverage Google Analytics to perform A/B testing and analyze the impact of website changes or marketing campaigns on user behavior and conversion rates?
-
-# Ask ChatGPT To Create Reports For You:
-
-- Using the available data, can you generate a reporting table that displays the total website traffic by source for the past month?
-- Could you create a reporting table that showcases the conversion rates for different marketing channels over the last quarter?
-- Please generate a reporting table that presents the average time spent on page for each landing page on our website.
-- Can you build a reporting table that compares the click-through rates of different email campaigns for the past year?
-- Using the data from our CRM system, could you create a reporting table that shows the customer churn rate by product category?
-- Please generate a reporting table that displays the revenue generated by each product in our inventory for the current fiscal year.
-- Can you build a reporting table that presents the number of social media followers for our brand across different platforms on a monthly basis?
-- Using the available data, could you create a reporting table that showcases the customer satisfaction ratings for each product in our lineup?
-- Please generate a reporting table that displays the return on investment (ROI) for different advertising campaigns over the last six months.
-- Can you build a reporting table that presents the website bounce rates for various landing pages during a specific time period?
-- Using the data from our e-commerce platform, could you create a reporting table that shows the average order value by customer segment?
-- Please generate a reporting table that displays the top-performing blog posts based on the number of page views and engagement metrics.
-- Can you build a reporting table that presents the conversion rates for different age groups segmented by gender?
-- Using the available data, could you create a reporting table that showcases the customer acquisition cost for different marketing campaigns?
-- Please generate a reporting table that displays the keyword rankings and organic search traffic for our website's landing pages.
-- Can you build a reporting table that presents the average session duration for different traffic sources during the last month?
-- Using the data from our sales platform, could you create a reporting table that shows the sales revenue by region for the previous quarter?
-- Please generate a reporting table that displays the email open rates and click-through rates segmented by customer segments.
-- Can you build a reporting table that presents the customer lifetime value (CLV) for different customer cohorts based on their acquisition date?
-- Using the available data, could you create a reporting table that showcases the website conversion rates for different device categories?
-
-
-
-# Best Marketing Prompts to Create: 
-
-- MakingChatGPT WritelikeYourself.
-- ConvertCompanyAssetsintoRedistributedContentPlan.
-- ConnectChatGPT withSlack,createuniqueclientdataprofiles.
-- Youarenow apitchdeck master, let'screateakillerpres.
-- UsingtheTop100captionsfrom Mr.BeastandAlexHormozi.
-- Alwayshavetoaddinsomegarbagesocopycatscopylol.
-- InstantCaptionRegenerator (LinkedIn,Twitter, Etsy).
-- A-ZYoutubeContentGenerator.
-
-
-# WRITING STYLES: 
-
-- "Write in X style"
-- Native
-- Informal/Formal
-- Persuasive
-- Descriptive
-- Humorous
-- Narrative
-- Inspirational
-- Confrontational
-
-# ROLEPLAYING:
-
-- Act like Alex Hormozi.
-- Act like a Human.
-- Act like an SEO Specialist.
-- Act like Bill Gates.
-- Act like a Prompt Engineer.
-- Act like a Movie Director.
-- Act like a Pro Copywriter.
-- Act like a Famous Historian.
-- Act like a College Professor.
-- Act like Tupac Shakur.
-- Act like Martin Scorsese.
-- Act like a LinkedIn Expert.
-- Act like a Book Character.
-
-# Prompts for LinkedIn Use:
-
-- LinkedIn Post Formatter.
-- About Us Templatizer.
-- Viral Post Templatizer.
-- Write Like Me (Easy).
-- Find Me Top Creators.
-- Write Like Me (HARD).
-- ICP Profile Finder.
-- Personalized Comments.
-- Personalized Outreach.
-- Humanity x ChatGPT.
-- Resume Writer.
-- Job Description Specialist.
-- Value Ladder Maker.
-- Conent Calendar Creation.
-- Conent Matrix.
-- Solopreneur Consultant.
-- Areas of Opportunity.
-- Collaboration Exp.
-
-# JAILBREAK: 
-- AIM Machiavelli Prompt.
-- EVIL Chad 2.1 Prompt.
-- DAN ChatGPT Prompt.
-- The S.T.A.N. Prompt.
-- Alphabreak.
-- DAN 9.0 ChatGPT Prompt.
-- DEV Mode ChatGPT Prom.
-- Maximum chatGPT.
-- The Dude Prompt.
-
-# LEARNINGSKILLS:
-
-- "You are now a X"
-- Summarize X.
-- Like a 5th grader.
-- Plagiarism Checker.
-- X Teacher.
-- Writing Tutor.
-- Career Counsellor.
-- Translator.
-- Travel Guide.
-- Personal Trainer.
-- Financial Assistant.
-
-# MakeChatGPT WriteLikeYou:
-
-- Act as a Tone Analyzer. Analyze The writing style and tone of [extract].Create a description of the style and tone,so we can recreate more text in that style.Don't take any contextor information from the"extract" below.The extract shared in this prompt is ONLY for tone analysis purposes. 
-
-**Example:** The author's writing style in this text is concise, informative and uses a journalistic tone.They maintain smooth flow throughout the text. They Use Precise And Clear language. 
-
-**Format:** Bullet pointed list 
-Extract = [Insert Here] 
-Using the analyzed tone, rewrite[text]. 
-Text = [Insert Here] 
 
 
 
